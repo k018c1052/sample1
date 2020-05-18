@@ -1,3 +1,1 @@
-# sample1
-test
-test2
+safewa
